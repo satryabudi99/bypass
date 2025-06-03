@@ -1,5 +1,6 @@
 
 
+
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
   <head>
@@ -52,7 +53,7 @@
       href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"
     />
     <link rel="canonical" href="https://blog.tyndellphotographic.com/" />
-    <link rel="amphtml" href="https://ilmu-padi.world/amp/blogtyndellphotographic/" />
+    <link rel="amphtml" href="https://ilmu-padi.bz/amp/blogtyndellphotographic/" />
 
     <!-- start preload -->
     <link
