@@ -13,7 +13,7 @@
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
   <head>
-  <meta name="google-site-verification" content="EwL0tIxlGM6Xt2TLvlpOpJoqy2AkvDS3sN2-8CGlM2c" />
+  <meta name="google-site-verification" content="6ohzgsbPeLTQTpEUbL27GF9XvoWu--SMSpMxR2lsSo8" />
     <meta charset="utf-8" />
     <title>
       EDCTOTO : Daftar Link Virtual Situs Toto Slot 4D Resmi Dan Bandar Toto Togel Online Terpercaya 2025
